@@ -449,3 +449,7 @@ i{
   background: #00b8d4;
   transform: translateY(-3px);
 }
+html {
+  scroll-behavior: smooth;
+}
+
