@@ -452,4 +452,7 @@ i{
 html {
   scroll-behavior: smooth;
 }
+.home , .contact , .page2 , .page3{
+  margin-top: 150px ;
+}
 
